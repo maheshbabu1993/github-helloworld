@@ -1,6 +1,7 @@
 {
   "name": "maheshbabu1993/github-helloworld",
   "minimum-stability": "stable",
+  "version": "1.0.0"
   "require": {
     "monolog/monolog": "1.0.*"
   }
